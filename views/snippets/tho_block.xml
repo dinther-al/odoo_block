@@ -1,0 +1,7 @@
+<odoo>
+  <template id="tho_block" name="Tho Block">
+    <section>
+      <p>Tho xau trai</p>
+    </section>
+  </template>
+</odoo>
